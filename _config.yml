@@ -8,14 +8,14 @@ markdown: kramdown
 highlighter: rouge
 
 plugins: [jekyll-paginate]
-paginate: 20
-domain_name: 'http://yourblog-domain.com'
+paginate: 10
+domain_name: 'http://blog.rcos.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://rcos.github.io'
+url:            'http://blog.rcos.io'
 author:         'RCOS Developers and Coordinators'
 authorTwitter:  ''
 
