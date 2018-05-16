@@ -17,7 +17,7 @@ disqus_shortname: 'your-disqus-shortname'
 # Details for the RSS feed generator
 url:            'http://blog.rcos.io'
 author:         'RCOS Developers and Coordinators'
-authorTwitter:  ''
+authorTwitter:  'rcosrpi'
 
 permalink:       /:year/:title/
 
