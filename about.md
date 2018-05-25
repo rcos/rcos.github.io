@@ -5,6 +5,9 @@ profile: true
 ---
 
 We are a community of open source developers at Rensselaer.
-This is a static page. It could be an 'about page' if you'd like.
+
+Our projects can be found on our open source project management platform, [Observatory](https://rcos.io). 
+
+More detailed documentation about our organization can be found in our [handbook](http://rcos.github.io/rcos-handbook) (currently in progress).
 
 {% include footer.html %}
