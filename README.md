@@ -2,7 +2,7 @@
 
 Jekyll Blog that powers blog.rcos.io. The website is based on the Kactus theme from: [nickbalestra/kactus](https://github.com/nickbalestra/kactus)
 
-checkout the original theme README here: [THEME_README.md](theme_README.md)
+checkout the original theme README here: [THEME_README.md](THEME_README.md)
 
 ## How to use it
 
